@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "text": "я ебал твою маму",
+    "responses": [
+      {
+        "text": "ненадо не неби",
+        "nextMessage": 1,
+        "script": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Сообщение 2",
+    "responses": []
+  },
+  {
+    "id": 3,
+    "text": "Сообщение 3",
+    "responses": [
+      {
+        "text": "Ответы на сообщение ID: 3\n\n",
+        "nextMessage": 1,
+        "script": 2
+      },
+      {
+        "text": "Ответы на сообщение ID: 3\n\nцувывы",
+        "nextMessage": 2,
+        "script": 3
+      },
+      {
+        "text": "Ответы на сообщение ID: 3\n\nцувывы  4545",
+        "nextMessage": 4,
+        "script": 5
+      }
+    ]
+  }
+]
